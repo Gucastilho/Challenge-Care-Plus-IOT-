@@ -122,17 +122,12 @@ O firmware monitora continuamente as métricas e publica automaticamente no tóp
 | Camada | Tecnologia | Função |
 |---|---|---|
 | Edge | ESP32 DevKit V1 | Microcontrolador principal |
-| Edge | C/C++ (Arduino) | Firmware do dispositivo |
 | Edge | SSD1306 OLED 128×64 | Display de métricas |
 | Edge | Wokwi | Simulação digital do hardware |
 | Conectividade | MQTT v3.1.1 | Protocolo de mensagens IoT |
 | Conectividade | HiveMQ Cloud (Free) | Broker MQTT com TLS |
 | Conectividade | PubSubClient 2.8 | Biblioteca MQTT para ESP32 |
 | Backend | Node-RED v3+ | Processamento e flows |
-| Backend | FIWARE Orion | Context Broker NGSI-v2 |
-| Backend | MongoDB | Persistência de dados |
-| Application | Node-RED Dashboard | Interface visual em tempo real |
-| Application | Grafana | Análise de séries temporais |
 
 ---
 

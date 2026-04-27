@@ -161,3 +161,11 @@ O dispositivo apresenta 4 telas que alternam a cada 2 segundos:
 | 4 | Passos · Status MQTT · Bateria |
 
 O ponto sólido (●) no canto superior direito indica conexão MQTT ativa.
+
+## 👥 Participantes
+| Nome                           | RM       |
+| ------------------------------ | -------- |
+| **Eduarda da Silva Brito**     | RM567347 |
+| **Gustavo Castilho Gonçalves** | RM566970 |
+| **Gustavo Moretim Canzi**      | RM567683 |
+| **Lucca Ghiraldi Urso**        | RM556739 |
